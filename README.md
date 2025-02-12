@@ -1,3 +1,29 @@
+# Overview
+
+The Car Rental Web Application is a front-end web application built using Angular. It allows users to browse available cars, book rentals, manage reservations, and make payments. The application includes authentication for both customers and administrators, with an admin dashboard to manage cars, bookings, and users.
+
+# Features
+
+- User authentication (sign-up, login, logout)
+
+- Browse available cars with filters (price, model, type, etc.)
+
+- Book and manage car rentals
+
+- Payment integration
+
+- Admin dashboard for managing users, cars, and bookings
+
+- Responsive design for mobile and desktop
+
+# Tech Stack
+
+Angular
+
+TypeScript
+
+HTML, CSS
+
 # Frontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
